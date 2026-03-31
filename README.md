@@ -53,6 +53,16 @@ Students understand their market value.
 Job seekers negotiate better salaries.
 Organizations maintain consistency in salary decisions.
 
+# How the Project Works
+•	Load dataset → salary_data.csv 
+•	Encode education → convert text to numbers 
+•	Separate features (X) and target (y) 
+•	Train Linear Regression model 
+•	Take user input → experience & education 
+•	Encode input → match model 
+•	Predict salary → display to user 
+•	Plot graph → visualize experience vs salary
+
 # Examples
 # 1. Output:
 Enter years of experience: 6
