@@ -19,7 +19,7 @@ The dataset contains the following columns:
 experience → Years of experience
 education → Education level (Bachelor, Master, PhD)
 salary → Salary in INR
-🛠️ Tech Stack
+Tech Stack
 Python
 Pandas
 Scikit-learn
