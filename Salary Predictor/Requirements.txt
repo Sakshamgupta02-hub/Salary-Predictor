@@ -1,0 +1,31 @@
+pandas → to load and handle dataset (salary_data.csv)
+matplotlib → to display graph (salary vs experience)
+scikit-learn → to build and train ML model
+
+1. pandas
+Used to load and handle dataset
+
+Reads CSV file using:
+pd.read_csv("salary_data.csv")
+
+Helps in:
+Data cleaning
+Data manipulation
+
+2. matplotlib
+Used to plot graphs
+In your project:
+Shows Salary vs Experience graph
+
+Example:
+plt.scatter(df['experience'], df['salary'])
+
+3. scikit-learn
+Core Machine Learning library
+
+Used for:
+Linear Regression model
+Label Encoding
+
+Example:
+from sklearn.linear_model import LinearRegression
