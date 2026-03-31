@@ -29,3 +29,8 @@ Label Encoding
 
 Example:
 from sklearn.linear_model import LinearRegression
+
+Other Requirements:
+Ensure salary_data.csv is in the same folder as the Python file.
+Enter education exactly as: Bachelor / Master / PhD .
+Python 3.x is required .
