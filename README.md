@@ -30,6 +30,29 @@ Predicts salary based on user input
 Uses Machine Learning model (Linear Regression)
 Displays a graph (Salary vs Experience)
 
+# Real-World Problem
+
+In today’s job market, salary expectations are often unclear, especially for students and fresh graduates. Many individuals struggle to understand how factors like experience and education level influence their earning potential. This lack of clarity can lead to:
+
+Accepting underpaid job offers
+Unrealistic salary expectations
+Poor career planning decisions
+
+Recruiters and companies also face challenges in maintaining fair and consistent salary structures, especially when evaluating candidates with different backgrounds.
+
+# How This Project Solves It
+
+This project uses Machine Learning (Linear Regression) to analyze past salary data and predict expected salary based on:
+
+Years of experience
+Education level
+
+By providing a quick and data-driven estimate, this system helps:
+
+Students understand their market value.
+Job seekers negotiate better salaries.
+Organizations maintain consistency in salary decisions.
+
 # Examples
 # 1. Output:
 Enter years of experience: 6
